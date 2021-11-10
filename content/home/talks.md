@@ -1,5 +1,5 @@
 ---
-widget: featured-content
+widget: talks
 widget_id: talks
 headless: true
 weight: 0
