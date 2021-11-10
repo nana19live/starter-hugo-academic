@@ -3,7 +3,7 @@ widget: hero
 widget_id: Header
 headless: true
 weight: 10
-title: Downzise my democracy
+title: Downsize my democracy
 active: true
 design:
   columns: "1"
@@ -12,3 +12,9 @@ design:
     image_darken: 0
 ---
 Header tekst
+
+`<!--StartFragment-->`
+
+`![screen reader text](image.jpg "caption")`
+
+`<!--EndFragment-->`
