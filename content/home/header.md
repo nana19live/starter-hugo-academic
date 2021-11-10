@@ -15,6 +15,6 @@ Header tekst
 
 `<!--StartFragment-->`
 
-`![screen reader text](image.jpg "caption")`
+`![screen reader text](image.jpg "icon")`
 
 `<!--EndFragment-->`
