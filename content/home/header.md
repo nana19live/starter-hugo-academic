@@ -13,14 +13,4 @@ design:
 ---
 Header tekst
 
-`<!--StartFragment-->`
-
-`{{< figure src="untitled.png" caption="A caption" numbered="true" >}}`
-
-`<!--EndFragment-->`
-
-<!--StartFragment-->
-
-{{< figure src="untitled.jpg" caption="A caption" numbered="true" >}}
-
-<!--EndFragment-->
+`{{< figure src="untitled.png">}}`
