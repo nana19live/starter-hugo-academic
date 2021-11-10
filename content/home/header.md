@@ -3,10 +3,10 @@ widget: hero
 widget_id: Header
 headless: true
 weight: 10
-title: Header
+title: Downzise my democracy
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
