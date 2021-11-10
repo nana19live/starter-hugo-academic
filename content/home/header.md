@@ -15,12 +15,12 @@ Header tekst
 
 `<!--StartFragment-->`
 
-`![screen reader text](untitled.png "icon")`
+`{{< figure src="untitled.png" caption="A caption" numbered="true" >}}`
 
 `<!--EndFragment-->`
 
-`<!--StartFragment-->`
+<!--StartFragment-->
 
-`![screen reader text](image.png "untitled")`
+{{< figure src="untitled.jpg" caption="A caption" numbered="true" >}}
 
-`<!--EndFragment-->`
+<!--EndFragment-->
