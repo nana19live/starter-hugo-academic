@@ -12,5 +12,3 @@ design:
     image_darken: 0
 ---
 This NWO Vidi project analyses the democratic consequences of increasing decentralization and regionalization in European countries. It studies the functioning of democracy in subnational units, and investigates the ever more complex relations between administrative layers on the democratic influences of citizens.
-
-`{{< figure src="untitled.png" padding_left="50">}}`
