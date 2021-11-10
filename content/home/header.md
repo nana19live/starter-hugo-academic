@@ -18,3 +18,9 @@ Header tekst
 `![screen reader text](untitled.png "icon")`
 
 `<!--EndFragment-->`
+
+`<!--StartFragment-->`
+
+`![screen reader text](image.png "untitled")`
+
+`<!--EndFragment-->`
