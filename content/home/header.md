@@ -11,6 +11,6 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-Header tekst
+![](icon.png)
 
-`{{< figure src="untitled.png">}}`
+Header tekst
