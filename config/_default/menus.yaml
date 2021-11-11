@@ -5,14 +5,13 @@
 
 main:
   - name: Home
-    url: ''
     weight: 10
    - name: Project
     url: '#description'
     weight: 20
   - name: Subprojects
     url: '#projects'
-    weight: 35
+    weight: 30
   - name: Posts
     url: '#posts'
     weight: 40
