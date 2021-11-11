@@ -22,4 +22,16 @@ This NWO Vidi project analyses the democratic consequences of increasing decentr
 
 `{{< icon name="twitter" pack="fab" >}} R`
 
+<!--StartFragment-->
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+<i class="ai ai-google-scholar-square ai-3x"></i>
+```
+
+
+
+<!--EndFragment-->
+
 `<!--EndFragment-->`
