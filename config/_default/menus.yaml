@@ -7,7 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Project
+    url: '#projects'
+    weight: 15
+  - name: Subprojects
     url: '#projects'
     weight: 20
   - name: Posts
