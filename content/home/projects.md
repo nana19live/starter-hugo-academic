@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: Projects
+widget_id: Subprojects
 headless: true
 weight: 30
 title: Subprojects
