@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Header
+widget_id: home
 headless: true
 weight: 10
 title: Downsize my democracy
