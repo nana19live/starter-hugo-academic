@@ -6,6 +6,7 @@
 main:
   - name: Home
     weight: 10
+    url: '#home'
    - name: Project
     url: '#description'
     weight: 20
