@@ -16,10 +16,10 @@ This NWO Vidi project analyses the democratic consequences of increasing decentr
 
 `<!--StartFragment-->`
 
-`{{< icon name="terminal" pack="fas" >}} Terminal`
+`{{< icon name="twitter" pack="fas" >}} Terminal`
 
-`{{< icon name="python" pack="fab" >}} Python`
+`{{< icon name="twitter" pack="fab" >}} Python`
 
-`{{< icon name="r-project" pack="fab" >}} R`
+`{{< icon name="twitter" pack="fab" >}} R`
 
 `<!--EndFragment-->`
