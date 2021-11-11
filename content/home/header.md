@@ -19,3 +19,9 @@ This NWO Vidi project analyses the democratic consequences of increasing decentr
 `rel=icon type=image/png href=`[`/images/icon_huf3d13557faf114ff0c90763f9f68d073_9288_32x32_fill_lanczos_center_2.png`](https://who-opposes.netlify.app/images/icon_huf3d13557faf114ff0c90763f9f68d073_9288_32x32_fill_lanczos_center_2.png)`>`
 
 `<!--EndFragment-->`
+
+`<!--StartFragment-->`
+
+`type=image/png href=`[`/images/icon_huf3d13557faf114ff0c90763f9f68d073_9288_192x192_fill_lanczos_center_2.png`](https://who-opposes.netlify.app/images/icon_huf3d13557faf114ff0c90763f9f68d073_9288_192x192_fill_lanczos_center_2.png)`>`
+
+`<!--EndFragment-->`
