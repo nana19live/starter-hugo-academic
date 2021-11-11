@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: Subprojects
     url: '#projects'
-    weight: 30
+    weight: 35
   - name: Posts
     url: '#posts'
     weight: 40
